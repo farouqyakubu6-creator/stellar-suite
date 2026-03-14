@@ -35,7 +35,7 @@ const Navbar = () => {
           <Link href="/blog" className="text-sm font-medium text-muted-foreground hover:text-foreground transition-colors">Blog</Link>
           <Link href="/faq" className="text-sm font-medium text-muted-foreground hover:text-foreground transition-colors">FAQ</Link>
           <a
-            href="https://github.com"
+            href="https://github.com/Stellar-Kit"
             target="_blank"
             rel="noopener noreferrer"
             className="text-sm font-medium text-muted-foreground hover:text-foreground transition-colors"

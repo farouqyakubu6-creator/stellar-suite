@@ -2,12 +2,12 @@
   "name": "stellar-kit-studio",
   "displayName": "Stellar Kit Studio",
   "description": "Kit Studio by Stellar Kit: Build, deploy, and manage Soroban smart contracts on Stellar directly from VS Code. One-click deploy, transaction simulation, and integrated CLI workflows.",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "publisher": "0xVida",
   "icon": "icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/0xVida/stellar-suite.git"
+    "url": "https://github.com/Stellar-Kit/studio.git"
   },
   "engines": {
     "vscode": "^1.80.0"

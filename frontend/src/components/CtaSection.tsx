@@ -63,7 +63,7 @@ const CtaSection = () => {
 
         <div className="mt-10">
           <a
-            href="https://github.com"
+            href="https://github.com/Stellar-Kit"
             target="_blank"
             rel="noopener noreferrer"
             className="btn-outline"
